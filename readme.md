@@ -1,10 +1,16 @@
-# 99Tech Code Challenge #1 #
+# 99Tech Code Challenge #1
 
-Note that if you fork this repository, your responses may be publicly linked to this repo.  
-Please submit your application along with the solutions attached or linked.   
+## Overview
 
-It is important that you minimally attempt the problems, even if you do not arrive at a working solution.
+This repository contains the solution for the 99Tech Code Challenge #1.
 
-## Submission ##
-You can either provide a link to an online repository, attach the solution in your application, or whichever method you prefer.
-We're cool as long as we can view your solution without any pain.
+I just apply for backend developer position, so i only do the backend tasks include: problem 4, 5, 6.
+
+Please read the `README.md` in each problem directory for more information.
+
+## Notes
+
+- For problem 5, I use NestJS to build the CRUD API, but I don't know it's allowed or not.
+- For problem 6, I write some additional advanced technique, but I don't have time to implement all of them.
+- I haven't worked with JS/TS Backend for a year, but I confident with my skills and knowledge. If you have any feedback, please let me know.
+
